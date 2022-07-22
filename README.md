@@ -6,13 +6,13 @@ Horry, Youichi, Ken-Ichi Anjyo, and Kiyoshi Arai. "Tour into the picture: using 
 Used Toolboxes: Matlab Computer Vision Toolbox, Image Processing Toolbox
  
 Instructions:
--run the main.m function to open the program
--press the load image button to select an image to transform
--use your mouse to set the rear panel and the vanishing point
--press the draw line button to create the spidery mesh
+- run the main.m function to open the program
+- press the load image button to select an image to transform
+- use your mouse to set the rear panel and the vanishing point
+- press the draw line button to create the spidery mesh
 - press 'reset' button if the selected points are not accurate
 - press 'set' button to submit the inputs
--input rotation and translation values
+- input rotation and translation values
 - press 'set value' button to get the transformed image and the 3d interactive model of the scene
 
 ## Method
